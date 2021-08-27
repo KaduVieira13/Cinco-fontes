@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Lora&family=Playball&family=Ubuntu&family=Xanh+Mono&display=swap');
+
+
+.topo{
+    width: 100%;
+    text-align: center;
+    background: #bbbbbb;
+    padding:10px;
+}
+
+.topo p {
+    background-color: black;
+    color: blanchedalmond;
+    font-family: 'Lora', serif;
+    padding: 30px;
+}
+
+.lora {
+    text-align: center;
+    font-family: 'Lora', serif;
+    color: cornflowerblue;
+    font-size: 20px;
+}
+
+.lora h1 {
+    font-size: 35px;
+    color: aqua;
+}
+
+.amatic {
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    color: red;
+    font-size: 22px;
+}
+
+.amatic h1 {
+    font-size: 35px;
+    color:seagreen;
+}
+
+.playball {
+    text-align: center;
+    font-family: 'Playball', cursive;
+    color: blueviolet;
+    font-size: 22px;
+}
+
+.playball h1 {
+    font-size: 35px;
+    color:steelblue;
+}
+
+.ubuntu {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    color:cadetblue;
+    font-size: 22px;
+}
+
+.ubuntu h1 {
+    font-size: 35px;
+    color:crimson;
+}
+
+.xanh {
+    text-align: center;
+    font-family: 'Xanh Mono', monospace;
+    color:darkgoldenrod;
+    font-size: 22px;
+}
+
+.xanh h1 {
+    font-size: 35px;
+    color:darkblue;
+ }
+
+ footer {
+     width: 100%;
+    text-align: center;
+    background-color: #bbbbbb;
+    padding: 10px;
+    font-size: 20px;
+    
+}
+
